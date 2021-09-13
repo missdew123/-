@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icon/img">
+        <file>icon/PlayFilm.png</file>
+        <file>icon/PlayFinal.png</file>
+        <file>icon/PlayFirst.png</file>
+        <file>icon/PlayNext.png</file>
+        <file>icon/PlayPrevious.png</file>
+        <file>icon/algorithm.png</file>
+        <file>icon/calibrate.png</file>
+        <file>icon/calibratePlate.png</file>
+        <file>icon/calibratePlate1.png</file>
+        <file>icon/camera.png</file>
+        <file>icon/camera1.png</file>
+        <file>icon/close.png</file>
+        <file>icon/connect.png</file>
+        <file>icon/fit.png</file>
+        <file>icon/LoadIMg.png</file>
+        <file>icon/new.png</file>
+        <file>icon/newPro.png</file>
+        <file>icon/open.png</file>
+        <file>icon/open1.png</file>
+        <file>icon/pro.png</file>
+        <file>icon/saveAs.png</file>
+        <file>icon/start.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/svae.png</file>
+        <file>icon/zoomIn.png</file>
+        <file>icon/zoomOut.png</file>
+    </qresource>
+</RCC>
